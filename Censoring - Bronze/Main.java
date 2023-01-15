@@ -8,7 +8,6 @@ public class Main {
         return sentence;
     }
 
-
     public static void main(String[] args) throws IOException {
         BufferedReader r = new BufferedReader(new FileReader("Main.in"));
         PrintWriter pw = new PrintWriter(new FileWriter("Main.out"));
