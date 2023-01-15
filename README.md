@@ -6,5 +6,5 @@ This is a repositity loaded with my responses to various different USACO problem
 # Notes
  - All my responses are made in java, using PrintWriter and BufferedReader, all my solutions will be stored in `main.java`
  - Some folders may contain a `*.in` or a `*.out` file, these are just the test file that have been used for testing correctness.
-# Useful References
-- Some of my questions will be from usaco.guide, if you want more materials in addition to a path that teaches you what you need to know then definitely check it out.
+# Useful Resources
+- Some of my questions will be from [usaco.guide], if you want more materials in addition to a path that teaches you what you need to know then definitely check it out.
