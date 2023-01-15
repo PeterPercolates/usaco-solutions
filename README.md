@@ -7,4 +7,4 @@ This is a repositity loaded with my responses to various different USACO problem
  - All my responses are made in java, using PrintWriter and BufferedReader, all my solutions will be stored in `main.java`
  - Some folders may contain a `*.in` or a `*.out` file, these are just the test file that have been used for testing correctness.
 # Useful Resources
-- Some of my questions will be from [usaco.guide]([usaco.guide](https://usaco.guide/dashboard/)), if you want more materials in addition to a path that teaches you what you need to know then definitely check it out.
+- Some of my questions will be from [usaco.guide](https://usaco.guide/dashboard/), if you want more materials in addition to a path that teaches you what you need to know then definitely check it out.
