@@ -10,16 +10,18 @@ int main() {
     int scaling;
     cin >> length >> width >> scaling;
 
-    string character;
+    
     for (int i = 0; i < length; i++) {
+        string character;
+        cin >> character;
         for (int i2 = 0; i2 < width; i2++) {
-            cin >> character;
+            char character2 = character[i2];
             for (int i3 = 0; i3 < scaling; i3++) {
-                cout << character[i2];
+                cout << character2;
             } 
-            cout << "\n";
-        }
-        
+            
+        }   
+        cout << "\n";
     }
     
 }
