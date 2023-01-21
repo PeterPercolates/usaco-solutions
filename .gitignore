@@ -1,3 +1,9 @@
 Main.in
 Main.out
-
+Main
+Main.dSYM
+*.dSYM
+*.iml
+.vscode
+.idea
+*.jar
